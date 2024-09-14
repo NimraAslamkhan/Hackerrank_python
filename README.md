@@ -37,4 +37,4 @@
 | Strings   | Easy       | [Text Wrap](https://www.hackerrank.com/challenges/text-wrap/problem)        | [Text Wrap](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Text%20Alignment.py) |
 | Strings   | Easy       | [Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem)        | [Designer Door Mat](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Designer%20Door%20Mat.py) |
 | Strings   | Easy       | [String Formatting](https://www.hackerrank.com/challenges/python-string-formatting/problem)        | [String Formatting ](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Text%20Alignment.py) |
-| Strings   | Easy       | [Capitalize!](https://www.hackerrank.com/challenges/capitalize/problem)        | [Capitalize!](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Text%20Alignment.py) |
+| Strings   | Easy       | [Capitalize!](https://www.hackerrank.com/challenges/capitalize/problem)        | [Capitalize!](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Capitalize!.py) |
