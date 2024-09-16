@@ -47,14 +47,14 @@
 
 | Subdomain | Difficulty | Problem Link                                                                                           | Solution                     |
 |-----------|------------|--------------------------------------------------------------------------------------------------------|------------------------------|
-| Sets      | Easy       | [Different Ways to Omit Set Elements](https://www.hackerrank.com/challenges/python-sets/problem)       | [Different Ways to Omit Set Elements.py](link-to-your-solution) |
-| Sets      | Easy       | [Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem)             | [Symmetric Difference.py](link-to-your-solution) |
-| Sets      | Easy       | [Set .add()]()                                 | [Set .add().py](link-to-your-solution) |
-| Sets      | Easy       | [Set .union() Operation](https://www.hackerrank.com/challenges/py-set-union/problem)                    | [Set .union().py](link-to-your-solution) |
-| Sets      | Easy       | [Set .intersection() Operation](https://www.hackerrank.com/challenges/py-set-intersection/problem)      | [Set .intersection().py](link-to-your-solution) |
-| Sets      | Easy       | [Set .difference() Operation](https://www.hackerrank.com/challenges/py-set-difference/problem)         | [Set .difference().py](link-to-your-solution) |
-| Sets      | Easy       | [Set .symmetric_difference() Operation](https://www.hackerrank.com/challenges/py-set-symmetric-difference/problem) | [Set .symmetric_difference().py](link-to-your-solution) |
-| Sets      | Easy       | [Set Mutations](https://www.hackerrank.com/challenges/py-set-mutations/problem)                        | [Set Mutations.py](link-to-your-solution) |
-| Sets      | Easy       | [The Captain's Room](https://www.hackerrank.com/challenges/py-the-captains-room/problem)               | [The Captain's Room.py](link-to-your-solution) |
-| Sets      | Easy       | [Check Subset](https://www.hackerrank.com/challenges/py-check-subset/problem)                          | [Check Subset.py](link-to-your-solution) |
-| Sets      | Easy       | [Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem)       | [Check Strict Superset.py](link-to-your-solution) |
+| Sets      | Easy       | [No Idea!]([https://www.hackerrank.com/challenges/python-sets/problem](https://www.hackerrank.com/challenges/no-idea/problem?isFullScreen=true))       | [No Idea!](link-to-your-solution) |
+| Sets      | Easy       | [Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem?isFullScreen=true)             | [Symmetric Difference.py](link-to-your-solution) |
+| Sets      | Easy       | [Set .add()](https://www.hackerrank.com/challenges/py-set-add/problem?isFullScreen=true)                                 | [Set .add().py](link-to-your-solution) |
+| Sets      | Easy       | [Set .union() Operation](https://www.hackerrank.com/challenges/py-set-union/problem?isFullScreen=true)                    | [Set .union().py](link-to-your-solution) |
+| Sets      | Easy       | [Set .intersection() Operation](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem?isFullScreen=true)      | [Set .intersection().py](link-to-your-solution) |
+| Sets      | Easy       | [Set .difference() Operation](https://www.hackerrank.com/challenges/py-set-difference-operation/problem?isFullScreen=true)         | [Set .difference().py](link-to-your-solution) |
+| Sets      | Easy       | [Set .symmetric_difference() Operation](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem?isFullScreen=true) | [Set .symmetric_difference().py](link-to-your-solution) |
+| Sets      | Easy       | [Set Mutations]([https://www.hackerrank.com/challenges/py-set-mutations/problem](https://www.hackerrank.com/challenges/py-set-mutations/problem?isFullScreen=true))                        | [Set Mutations.py](link-to-your-solution) |
+| Sets      | Easy       | [The Captain's Room](https://www.hackerrank.com/challenges/py-the-captains-room/problem?isFullScreen=true)               | [The Captain's Room.py](link-to-your-solution) |
+| Sets      | Easy       | [Check Subset](https://www.hackerrank.com/challenges/py-check-subset/problem?isFullScreen=true)                          | [Check Subset.py](link-to-your-solution) |
+| Sets      | Easy       | [Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem?isFullScreen=true)       | [Check Strict Superset.py](link-to-your-solution) |
