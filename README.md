@@ -57,4 +57,4 @@
 | Sets      | Easy       | [Set Mutations](https://www.hackerrank.com/challenges/py-set-mutations/problem?isFullScreen=true))                        | [Set Mutations.py](link-to-your-solution) |
 | Sets      | Easy       | [The Captain's Room](https://www.hackerrank.com/challenges/py-the-captains-room/problem?isFullScreen=true)               | [The Captain's Room.py](link-to-your-solution) |
 | Sets      | Easy       | [Check Subset](https://www.hackerrank.com/challenges/py-check-subset/problem?isFullScreen=true)                          | [Check Subset.py](link-to-your-solution) |
-| Sets      | Easy       | [Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem?isFullScreen=true)       | [Check Strict Superset.py](link-to-your-solution) |
+| Sets      | Easy       | [Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem?isFullScreen=true)       | [Check Strict Superset.py](l[ink-to-your-solution](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/sets/Check%20Strict%20Superset.py)) |
