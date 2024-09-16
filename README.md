@@ -41,3 +41,20 @@
 | Strings   | Easy       | [Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli/problem)        | [Alphabet Rangoli](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Strings/Alphabet%20Rangoli.py) |
 | Strings   | Medium      | [The Minion Game](https://www.hackerrank.com/challenges/the-minion-game/problem)        | [The Minion Game](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Strings/The%20Minion%20Game.py) |
 | Strings   | Medium      | [Merge the Tools!](https://www.hackerrank.com/challenges/merge-the-tools/problem)        | [Merge the Tools!](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Strings/Merge%20the%20Tools.py) |
+
+
+## Sets
+
+| Subdomain | Difficulty | Problem Link                                                                                           | Solution                     |
+|-----------|------------|--------------------------------------------------------------------------------------------------------|------------------------------|
+| Sets      | Easy       | [Different Ways to Omit Set Elements](https://www.hackerrank.com/challenges/python-sets/problem)       | [Different Ways to Omit Set Elements.py](link-to-your-solution) |
+| Sets      | Easy       | [Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem)             | [Symmetric Difference.py](link-to-your-solution) |
+| Sets      | Easy       | [Set .add()]()                                 | [Set .add().py](link-to-your-solution) |
+| Sets      | Easy       | [Set .union() Operation](https://www.hackerrank.com/challenges/py-set-union/problem)                    | [Set .union().py](link-to-your-solution) |
+| Sets      | Easy       | [Set .intersection() Operation](https://www.hackerrank.com/challenges/py-set-intersection/problem)      | [Set .intersection().py](link-to-your-solution) |
+| Sets      | Easy       | [Set .difference() Operation](https://www.hackerrank.com/challenges/py-set-difference/problem)         | [Set .difference().py](link-to-your-solution) |
+| Sets      | Easy       | [Set .symmetric_difference() Operation](https://www.hackerrank.com/challenges/py-set-symmetric-difference/problem) | [Set .symmetric_difference().py](link-to-your-solution) |
+| Sets      | Easy       | [Set Mutations](https://www.hackerrank.com/challenges/py-set-mutations/problem)                        | [Set Mutations.py](link-to-your-solution) |
+| Sets      | Easy       | [The Captain's Room](https://www.hackerrank.com/challenges/py-the-captains-room/problem)               | [The Captain's Room.py](link-to-your-solution) |
+| Sets      | Easy       | [Check Subset](https://www.hackerrank.com/challenges/py-check-subset/problem)                          | [Check Subset.py](link-to-your-solution) |
+| Sets      | Easy       | [Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem)       | [Check Strict Superset.py](link-to-your-solution) |
