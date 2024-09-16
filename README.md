@@ -47,7 +47,7 @@
 
 | Subdomain | Difficulty | Problem Link                                                                                           | Solution                     |
 |-----------|------------|--------------------------------------------------------------------------------------------------------|------------------------------|
-| Sets      | Easy       | [No Idea!](https://www.hackerrank.com/challenges/no-idea/problem?isFullScreen=true)       | [No Idea!](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/sets/No%20Idea.py)) |
+| Sets      | Easy       | [No Idea!](https://www.hackerrank.com/challenges/no-idea/problem?isFullScreen=true)       | [No Idea!](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/sets/No%20Idea.py) |
 | Sets      | Easy       | [Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem?isFullScreen=true)           | [Symmetric Difference.py](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/sets/Symmetric%20Difference1.py) |
 | Sets      | Easy       | [Set .add()](https://www.hackerrank.com/challenges/py-set-add/problem?isFullScreen=true)                                 | [Set .add().py](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/sets/Set%20.add.py) |
 | Sets      | Easy       | [Set .union() Operation](https://www.hackerrank.com/challenges/py-set-union/problem?isFullScreen=true)                    | [Set .union().py](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/sets/Set%20.union()%20Operation.py) |
