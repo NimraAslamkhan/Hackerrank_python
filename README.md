@@ -86,4 +86,11 @@
 |Itertools    | Medium       | [Iterables and Iterators](https://www.hackerrank.com/challenges/iterables-and-iterators/problem?isFullScreen=true) | [Iterables and Iterators](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Itertools/itertools.combinations().py) |
 |Itertools    | Hard       | [Maximize It!](https://www.hackerrank.com/challenges/maximize-it/problem?isFullScreen=true) | [Maximize It!](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Itertools/Maximize%20It!.py) |
 
+## Collections
 
+| Subdomain | Difficulty | Problem Link                                                                                           | Solution                     |
+|-----------|------------|--------------------------------------------------------------------------------------------------------|------------------------------|
+|Collections    | Easy       | [collections.Counter()](https://www.hackerrank.com/challenges/collections-counter/problem?isFullScreen=true)       | [collections.Counter()](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Itertools/itertools.product().py) |
+|Collections    | Easy      | [DefaultDict Tutorial](https://www.hackerrank.com/challenges/itertools-permutations/problem?isFullScreen=true)    | [DefaultDict Tutorial](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem?isFullScreen=truey) |
+|Collections    | Easy      | [Collections.namedtuple()](https://www.hackerrank.com/challenges/py-collections-namedtuple/problem?isFullScreen=true)  | [Collections.namedtuple()](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Itertools/itertools.permutations().py) |
+|Collections     | Easy        | [Collections.OrderedDict()](https://www.hackerrank.com/challenges/itertools-combinations/problem?isFullScreen=true) | [Collections.OrderedDict()](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Itertools/itertools.combinations().py) |
