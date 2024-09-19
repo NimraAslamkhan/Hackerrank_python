@@ -74,3 +74,16 @@
 | Math    | Medium       | [Triangle Quest](https://www.hackerrank.com/challenges/python-quest-1/problem?isFullScreen=true) | [Triangle Quest](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Math/Triangle%20Quest.py) |
 
 
+## Itertools
+
+| Subdomain | Difficulty | Problem Link                                                                                           | Solution                     |
+|-----------|------------|--------------------------------------------------------------------------------------------------------|------------------------------|
+|Itertools     | Easy       | [itertools.product()](https://www.hackerrank.com/challenges/itertools-product/problem?isFullScreen=true)       | [itertools.product()](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Itertools/itertools.product().py) |
+|Itertools    | Easy      | [itertools.permutations()](https://www.hackerrank.com/challenges/itertools-permutations/problem?isFullScreen=true)    | [itertools.permutations()](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Itertools/itertools.permutations().py) |
+|Itertools     | Easy        | [itertools.combinations()](https://www.hackerrank.com/challenges/itertools-combinations/problem?isFullScreen=true) | [itertools.combinations()](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Itertools/itertools.combinations().py) |
+| Itertools   | Easy       | [itertools.combinations_with_replacement()](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problem?isFullScreen=true)| [itertools.combinations_with_replacement()](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Itertools/itertools.combinations_with_replacement().py) |
+|Itertools   | Medium      | [Compress the String!](https://www.hackerrank.com/challenges/compress-the-string/problem?isFullScreen=true)      | [Compress the String!](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Itertools/Compress%20the%20String!.py) |
+|Itertools    | Medium       | [Iterables and Iterators](https://www.hackerrank.com/challenges/iterables-and-iterators/problem?isFullScreen=true) | [Iterables and Iterators](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Itertools/itertools.combinations().py) |
+|Itertools    | Hard       | [Maximize It!](https://www.hackerrank.com/challenges/maximize-it/problem?isFullScreen=true) | [Maximize It!](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Itertools/Maximize%20It!.py) |
+
+
