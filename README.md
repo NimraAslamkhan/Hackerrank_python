@@ -103,6 +103,5 @@
 
 | Subdomain | Difficulty | Problem Link                                                                                           | Solution                     |
 |-----------|------------|--------------------------------------------------------------------------------------------------------|------------------------------|
-|Date and Time    | Easy       | [Calendar Module](https://www.hackerrank.com/challenges/calendar-module/problem?isFullScreen=true)    | [Calendar Module.py](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Collections/collections.Counter().py) |
 |Date and Time    | Easy       | [Calendar Module]()    | [Calendar Module.py](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Collections/collections.Counter().py) |
 |Date and Time    | Easy      | [Time Delta](https://www.hackerrank.com/challenges/python-time-delta/problem?isFullScreen=true)   | [Time Delta.py](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Collections/DefaultDict%20Tutorial.py) |
