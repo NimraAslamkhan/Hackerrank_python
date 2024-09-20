@@ -97,7 +97,7 @@
 |Collections    | Medium        | [Word Order](https://www.hackerrank.com/challenges/word-order/problem?isFullScreen=true)       | [Word Order](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Collections/Word%20Order.py) |
 |Collections    | Easy      | [Collections.deque()](https://www.hackerrank.com/challenges/itertools-permutations/problem?isFullScreen=true)    | [Collections.deque().py](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Collections/Collections.deque().py) |
 |Collections    | Medium      | [Company Logo](https://www.hackerrank.com/challenges/most-commons/problem?isFullScreen=true)  | [Company Logo.py](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Collections/Company%20Logo.py) |
-|Collections     | Medium        | [Piling Up!)](https://www.hackerrank.com/challenges/piling-up/problem?isFullScreen=true) | [Piling Up!.py](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Collections/Word%20Order.py) |
+|Collections     | Medium        | [Piling Up!)](https://www.hackerrank.com/challenges/piling-up/problem?isFullScreen=true) | [Piling Up!.py](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Collections/Piling%20Up!.py) |
 
 ## Date and Time
 
