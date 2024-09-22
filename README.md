@@ -2,7 +2,7 @@
 
 ## Introduction
 
-| Subdomain    | Difficulty | Problem Link                                                                                       | Solution                         |
+| Subdomain    | Difficulty | Problem Link                                                                                      | Solution                         |
 |--------------|------------|----------------------------------------------------------------------------------------------------|----------------------------------|
 | Introduction | Easy       | [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem)     | [Say Hello, World! With Python.py](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Hello%2C%20World!%20.py) |
 | Introduction | Easy       | [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true)        | [Python If-Else.py](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Python%20If-Else.py) |
