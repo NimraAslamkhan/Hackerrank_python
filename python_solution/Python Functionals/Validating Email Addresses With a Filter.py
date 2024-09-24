@@ -1,3 +1,4 @@
+
 def fun(s):
     try:
         username,url=s.split('@')
