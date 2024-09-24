@@ -110,32 +110,32 @@
 
 | Subdomain | Difficulty | Problem link | Solution |
 |:---------:|:----------:|:-----------: |:--------:|
-|Errors and Exceptions|Easy|[Exceptions](https://www.hackerrank.com/challenges/exceptions/problem?isFullScreen=true)|[exceptions.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/9.erros%20and%20exceptions/65.Exceptions.py)|
-|Errors and Exceptions|Easy|[Incorrect Regex](https://www.hackerrank.com/challenges/incorrect-regex/problem?isFullScreen=true)|[incorrect-regex.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/9.erros%20and%20exceptions/66.Incorrect%20Regex.py)|
+|Errors and Exceptions|Easy|[Exceptions](https://www.hackerrank.com/challenges/exceptions/problem?isFullScreen=true)|[exceptions.py](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Errors%20and%20Exceptions/Exceptions.py)|
+
 
 ## Bulid-ins
 
 | Subdomain | Difficulty | Problem link | Solution |
 |:---------:|:----------:|:-----------: |:--------:|
-|Built-Ins|Easy|[Zipped!](https://www.hackerrank.com/challenges/zipped/problem?isFullScreen=true)|[zipped.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/10.Built-Ins/69.Zipped!.py)|
-|Built-Ins|Easy|[Input()](https://www.hackerrank.com/challenges/input/problem?isFullScreen=true)|[input.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/10.Built-Ins/70.Input().py)|
-|Built-Ins|Easy|[Python Evaluation](https://www.hackerrank.com/challenges/input/problem?isFullScreen=true)|[python-eval.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/10.Built-Ins/71.Python%20Evaluation.py)|
-|Built-Ins|Medium|[Athlete Sort](https://www.hackerrank.com/challenges/python-sort-sort/problem?isFullScreen=true)|[python-sort-sort.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/10.Built-Ins/72.Athlete%20Sort.py)|
-|Built-Ins|Easy|[Any or All](https://www.hackerrank.com/challenges/any-or-all/problem?isFullScreen=true)|[any-or-all.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/10.Built-Ins/73.Any%20or%20All.py)|
-|Built-Ins|Medium|[ginortS](https://www.hackerrank.com/challenges/ginorts/problem?isFullScreen=true)|[ginorts.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/10.Built-Ins/74.ginortS.py)|
+|Built-Ins|Easy|[Zipped!](https://www.hackerrank.com/challenges/zipped/problem?isFullScreen=true)|[zipped.py](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Built-Ins/Zipped!.py)|
+|Built-Ins|Easy|[Input()](https://www.hackerrank.com/challenges/input/problem?isFullScreen=true)|[input.py](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Built-Ins/Input().py)|
+|Built-Ins|Easy|[Python Evaluation](https://www.hackerrank.com/challenges/input/problem?isFullScreen=true)|[python-eval.py](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Built-Ins/Python%20Evaluation.py)|
+|Built-Ins|Medium|[Athlete Sort](https://www.hackerrank.com/challenges/python-sort-sort/problem?isFullScreen=true)|[python-sort-sort.py](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Built-Ins/Athlete%20Sort.py)|
+|Built-Ins|Easy|[Any or All](https://www.hackerrank.com/challenges/any-or-all/problem?isFullScreen=true)|[any-or-all.py](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Built-Ins/Any%20or%20All.py)|
+|Built-Ins|Medium|[ginortS](https://www.hackerrank.com/challenges/ginorts/problem?isFullScreen=true)|[ginorts.py](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Built-Ins/ginortS.py)|
 
 ## Classes
 
 | Subdomain | Difficulty | Problem link | Solution |
 |:---------:|:----------:|:-----------: |:--------:|
-|Classes|Medium|[Classes: Dealing with Complex Numbers](https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem?isFullScreen=true)|[class-1-dealing-with-complex-numbers.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/11.Classes/75.Classes_%20Dealing%20with%20Complex%20Numbers.py)|
-|Classes|Easy|[Class 2 - Find the Torsional Angle](https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle/problem?isFullScreen=true)|[class-2-find-the-torsional-angle.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/11.Classes/76.Class%202%20-%20Find%20the%20Torsional%20Angle.py)|
+|Classes|Medium|[Classes: Dealing with Complex Numbers](https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem?isFullScreen=true)|[class-1-dealing-with-complex-numbers.py](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Classes/Dealing%20with%20Complex%20Numbers.py)|
+|Classes|Easy|[Class 2 - Find the Torsional Angle](https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle/problem?isFullScreen=true)|[class-2-find-the-torsional-angle.py](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Classes/Find%20the%20Torsional%20Angle.py)|
 
 ## Python functional
 
 | Subdomain | Difficulty | Problem link | Solution |
 |:---------:|:----------:|:-----------: |:--------:|
-|Python Functionals|Easy|[Map and Lambda Function](https://www.hackerrank.com/challenges/map-and-lambda-expression/problem?isFullScreen=true)|[map-and-lambda-expression.py](https://github.com/Kushal997-das/Competitive-Programming/tree/master/Hackerrank_python/12.Python%20Functionals)|
-|Python Functionals|Medium|[Validating Email Addresses With a Filter](https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter/problem?isFullScreen=true)|[validate-list-of-email-address-with-filter.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/12.Python%20Functionals/78.Validating%20Email%20Addresses%20With%20a%20Filter.py)|
-|Python Functionals|Medium|[Reduce Function](https://www.hackerrank.com/challenges/reduce-function/problem?isFullScreen=true)|[reduce-function.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/12.Python%20Functionals/79.Reduce%20Function.py)|
+|Python Functionals|Easy|[Map and Lambda Function](https://www.hackerrank.com/challenges/map-and-lambda-expression/problem?isFullScreen=true)|[map-and-lambda-expression.py](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Python%20Functionals/Map%20and%20Lambda%20Function.py)|
+|Python Functionals|Medium|[Validating Email Addresses With a Filter](https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter/problem?isFullScreen=true)|[validate-list-of-email-address-with-filter.py](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Python%20Functionals/Validating%20Email%20Addresses%20With%20a%20Filter.py)|
+|Python Functionals|Medium|[Reduce Function](https://www.hackerrank.com/challenges/reduce-function/problem?isFullScreen=true)|[reduce-function.py](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Python%20Functionals/Reduce%20Function.py)|
 
