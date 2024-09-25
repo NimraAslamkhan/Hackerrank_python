@@ -139,3 +139,13 @@
 |Python Functionals|Medium|[Validating Email Addresses With a Filter](https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter/problem?isFullScreen=true)|[validate-list-of-email-address-with-filter.py](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Python%20Functionals/Validating%20Email%20Addresses%20With%20a%20Filter.py)|
 |Python Functionals|Medium|[Reduce Function](https://www.hackerrank.com/challenges/reduce-function/problem?isFullScreen=true)|[reduce-function.py](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Python%20Functionals/Reduce%20Function.py)|
 
+## Regex and Parsing
+
+| Subdomain | Difficulty | Problem link | Solution |
+|:---------:|:----------:|:-----------: |:--------:|
+|Regex and Parsing|Easy|[Detect Floating Point Number](https://www.hackerrank.com/challenges/introduction-to-regex/problem?isFullScreen=true)|[Detect Floating Point Number.py](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Regex%20and%20Parsing/Detect%20Floating%20Point%20Number.py)|
+|Regex and Parsing|Easy|[Re.split()](https://www.hackerrank.com/challenges/re-split/problem?isFullScreen=true)|[Re.split().py](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Regex%20and%20Parsing/Re.split().py)|
+|Regex and Parsing|Easy|[Group(), Groups() & Groupdict()](https://www.hackerrank.com/challenges/re-group-groups/problem?isFullScreen=true)|[Group(), Groups() & Groupdict().py](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Regex%20and%20Parsing/Group()%2C%20Groups()%20%26%20Groupdict().py)|
+|Regex and Parsing|Easy|[Re.findall() & Re.finditer()](https://www.hackerrank.com/challenges/re-findall-re-finditer/problem?isFullScreen=true)|[Re.findall() & Re.finditer().py](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Regex%20and%20Parsing/Re.findall()%20%26%20Re.finditer().py)|
+|Regex and Parsing|Easy|[Re.start() & Re.end()](https://www.hackerrank.com/challenges/re-start-re-end/problem?isFullScreen=true)|[Re.start() & Re.end().py](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Regex%20and%20Parsing/Re.start()%20%26%20Re.end().py)|
+
