@@ -211,3 +211,13 @@
 |Debugging|Medium|[Words Score](https://www.hackerrank.com/challenges/words-score/problem?isFullScreen=true)|[words-score.py](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Debugging/Default%20Arguments.py)|
 |Debugging|Medium|[Default Arguments](https://www.hackerrank.com/challenges/default-arguments/problem?isFullScreen=true)|[default-arguments.py](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Debugging/Words%20Score.py)|
 
+[gmail]: mailto:nimraaslam3132@gmail.com
+[linkedin]: https://www.linkedin.com/in/nimra-aslam-9652b3247
+[github]: https://github.com/NimraAslamkhan
+
+
+  
+
+
+<h3 align="center">Show some &nbsp;❤&nbsp; by starring some of the repositories!</h3>
+
