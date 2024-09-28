@@ -1,5 +1,5 @@
 [![](https://img.shields.io/badge/Author-NimraAslam-green.svg)](https://github.com/NimraAslamkhan) <br>
-[![Hello programmer Welcome to this repo](https://img.shields.io/badge/Hello!-Welcometothisrepo-brightgreen.svg?style=flat&logo=github)](https://github.com/NimraAslamkhan)
+[![Hello programmer Welcome to this repo](https://img.shields.io/badge/Hello!-Welcometothisrepo-brightgreen.svg?style=flat&logo=github)](https://github.com/NimraAslamkhan/Hackerrank_python)
 
 
 ![](https://img.shields.io/badge/Programming_Language-Python-blue.svg)
