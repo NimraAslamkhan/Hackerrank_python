@@ -1,4 +1,13 @@
+[![](https://img.shields.io/badge/Author-NimraAslam-green.svg)](https://github.com/NimraAslamkhan) <br>
+[![Hello programmer Welcome to this repo](https://img.shields.io/badge/Hello!-Welcometothisrepo-brightgreen.svg?style=flat&logo=github)](https://github.com/NimraAslamkhan)
+
+
+![](https://img.shields.io/badge/Programming_Language-Python-blue.svg)
+![](https://img.shields.io/badge/Status-WorkinProgrees-green.svg)
+
+
 # Python: 
+
 
 ## Introduction
 
@@ -160,3 +169,45 @@
 |Regex and Parsing|Medium|[Validating Credit Card Numbers](https://www.hackerrank.com/challenges/validating-credit-card-number/problem?isFullScreen=true)|[validating-credit-card-number.py](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Regex%20and%20Parsing/Validating%20Credit%20Card%20Numbers.py)|
 |Regex and Parsing|Hard|[Validating Postal Codes](https://www.hackerrank.com/challenges/validating-postalcode/problem?isFullScreen=true)|[validating-postalcode.py](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Regex%20and%20Parsing/Validating%20Postal%20Codes.py)|
 |Regex and Parsing|Hard|[Matrix Script](https://www.hackerrank.com/challenges/matrix-script/problem?isFullScreen=true)|[matrix-script.py](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Regex%20and%20Parsing/Matrix%20Script.py)|
+
+## Closures and Decorators
+
+| Subdomain | Difficulty | Problem link | Solution |
+|:---------:|:----------:|:-----------: |:--------:|
+|Closures and Decorators|Easy|[Standardize Mobile Number Using Decorators](https://www.hackerrank.com/challenges/standardize-mobile-number-using-decorators/problem?isFullScreen=true)|[standardize-mobile-number-using-decorators.py](https://www.hackerrank.com/challenges/standardize-mobile-number-using-decorators/problem?isFullScreen=true)|
+|Closures and Decorators|Easy|[Decorators 2 - Name Directory](https://www.hackerrank.com/challenges/decorators-2-name-directory/problem?isFullScreen=true)|[Decorators 2 - Name Directory.py ](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Closures%20and%20Decorators/Standardize%20Mobile%20Number%20Using%20Decorators.py)|
+
+## numpy
+
+| Subdomain | Difficulty | Problem link | Solution |
+|:---------:|:----------:|:-----------: |:--------:|
+|Numpy|Easy|[Arrays](https://www.hackerrank.com/challenges/np-arrays/problem?isFullScreen=true)|[np-arrays.py](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Numpy/Arrays.py)|
+|Numpy|Easy|[Shape and Reshape](https://www.hackerrank.com/challenges/np-shape-reshape/problem?isFullScreen=true)|[np-shape-reshape.py](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Numpy/Shape%20and%20Reshape.py)|
+|Numpy|Easy|[Transpose and Flatten](https://www.hackerrank.com/challenges/np-transpose-and-flatten/problem?isFullScreen=true)|[np-transpose-and-flatten.py](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Numpy/Transpose%20and%20Flatten.py)|
+|Numpy|Easy|[Concatenate](https://www.hackerrank.com/challenges/np-concatenate/problem?isFullScreen=true)|[np-concatenate.py](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Numpy/Concatenate.py)|
+|Numpy|Easy|[Zeros and Ones](https://www.hackerrank.com/challenges/np-zeros-and-ones/problem?isFullScreen=true)|[np-zeros-and-ones.py](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Numpy/Zeros%20and%20Ones.py)|
+|Numpy|Easy|[Eye and Identity](https://www.hackerrank.com/challenges/np-eye-and-identity/problem?isFullScreen=true)|[np-eye-and-identity.py](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Numpy/Eye%20and%20Identity.py)|
+|Numpy|Easy|[Array Mathematics](https://www.hackerrank.com/challenges/np-array-mathematics/problem?isFullScreen=true)|[np-array-mathematics.py](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Numpy/Array%20Mathematics.py)|
+|Numpy|Easy|[Floor, Ceil and Rint](https://www.hackerrank.com/challenges/floor-ceil-and-rint/problem?isFullScreen=true)|[floor-ceil-and-rint.py](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Numpy/Floor%2C%20Ceil%20and%20Rint.py)|
+|Numpy|Easy|[Sum and Prod](https://www.hackerrank.com/challenges/np-sum-and-prod/problem?isFullScreen=true)|[np-sum-and-prod.py](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Numpy/Sum%20and%20Prod.py)|
+|Numpy|Easy|[Min and Max](https://www.hackerrank.com/challenges/np-min-and-max/problem?isFullScreen=true)|[np-min-and-max.py](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Numpy/Min%20and%20Max.py)|
+|Numpy|Easy|[Mean, Var, and Std](https://www.hackerrank.com/challenges/np-mean-var-and-std/problem?isFullScreen=true)|[np-mean-var-and-std.py](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Numpy/Mean%2C%20Var%2C%20and%20Std.py)|
+|Numpy|Easy|[Dot and Cross](https://www.hackerrank.com/challenges/np-dot-and-cross/problem?isFullScreen=true)|[np-dot-and-cross.py](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Numpy/Dot%20and%20Cross.py)|
+|Numpy|Easy|[Inner and Outer](https://www.hackerrank.com/challenges/np-inner-and-outer/problem?isFullScreen=true)|[np-inner-and-outer.py](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Numpy/Inner%20and%20Outer.py)|
+|Numpy|Easy|[Polynomials](https://www.hackerrank.com/challenges/np-polynomials/problem?isFullScreen=true)|[np-polynomials.py](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Numpy/Polynomials.py)|
+|Numpy|Easy|[Linear Algebra](https://www.hackerrank.com/challenges/np-linear-algebra/problem?isFullScreen=true)|[np-linear-algebra.py](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Numpy/Linear%20Algebra.py)|
+
+## XML
+
+| Subdomain | Difficulty | Problem link | Solution |
+|:---------:|:----------:|:-----------: |:--------:|
+|XML|Easy|[XML 1 - Find the Score](https://www.hackerrank.com/challenges/xml-1-find-the-score/problem?isFullScreen=true)|[xml-1-find-the-score.py](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/XML/XML%201%20-%20Find%20the%20Score.py)|
+|XML|Easy|[XML2 - Find the Maximum Depth](https://www.hackerrank.com/challenges/xml2-find-the-maximum-depth/problem?isFullScreen=true)|[xml2-find-the-maximum-depth.py](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/XML/XML2%20-%20Find%20the%20Maximum%20Depth.py)|
+
+## Debugging
+
+| Subdomain | Difficulty | Problem link | Solution |
+|:---------:|:----------:|:-----------: |:--------:|
+|Debugging|Medium|[Words Score](https://www.hackerrank.com/challenges/words-score/problem?isFullScreen=true)|[words-score.py](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Debugging/Default%20Arguments.py)|
+|Debugging|Medium|[Default Arguments](https://www.hackerrank.com/challenges/default-arguments/problem?isFullScreen=true)|[default-arguments.py](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Debugging/Words%20Score.py)|
+
