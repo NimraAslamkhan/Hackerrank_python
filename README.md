@@ -30,6 +30,24 @@
 
 <h1 align="center">HackerRank Challenges: Python</h1>
 
+
+<h2 align="center">🌟 Introduction</h2>
+
+<div style="border: 2px solid #4CAF50; border-radius: 10px; padding: 20px; background-color: #f9f9f9; margin: 20px;">
+    <p style="font-size: 1.2em; line-height: 1.5;">
+        Welcome to the HackerRank Python Challenges repository! This collection of challenges is designed to help you improve your Python programming skills through practical problem-solving. 
+    </p>
+    <p style="font-size: 1.2em; line-height: 1.5;">
+        Here, you'll find a variety of problems ranging from basic data types to advanced concepts such as decorators and Numpy. Each challenge comes with a description and a solution, allowing you to learn at your own pace.
+    </p>
+    <p style="font-size: 1.2em; line-height: 1.5;">
+        Whether you're a beginner or an experienced developer, this repository offers valuable resources to enhance your coding skills and prepare you for coding interviews.
+    </p>
+    <p style="font-size: 1.2em; line-height: 1.5;">
+        Let's dive into the world of Python and tackle some exciting challenges together!
+    </p>
+</div>
+
 <h2>📋 Table of Contents</h2>
 
 <table style="width: 100%; border-collapse: collapse;">
@@ -112,25 +130,6 @@
 </table>
 
 <hr>
-
-
-<h2 align="center">🌟 Introduction</h2>
-
-<div style="border: 2px solid #4CAF50; border-radius: 10px; padding: 20px; background-color: #f9f9f9; margin: 20px;">
-    <p style="font-size: 1.2em; line-height: 1.5;">
-        Welcome to the HackerRank Python Challenges repository! This collection of challenges is designed to help you improve your Python programming skills through practical problem-solving. 
-    </p>
-    <p style="font-size: 1.2em; line-height: 1.5;">
-        Here, you'll find a variety of problems ranging from basic data types to advanced concepts such as decorators and Numpy. Each challenge comes with a description and a solution, allowing you to learn at your own pace.
-    </p>
-    <p style="font-size: 1.2em; line-height: 1.5;">
-        Whether you're a beginner or an experienced developer, this repository offers valuable resources to enhance your coding skills and prepare you for coding interviews.
-    </p>
-    <p style="font-size: 1.2em; line-height: 1.5;">
-        Let's dive into the world of Python and tackle some exciting challenges together!
-    </p>
-</div>
-
 
 
 
