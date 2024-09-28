@@ -4,13 +4,13 @@
 
 ![](https://img.shields.io/badge/Programming_Language-Python-blue.svg)
 ![](https://img.shields.io/badge/Status-WorkinProgrees-green.svg)
-[![](https://img.shields.io/github/license/NimraAslamkhan/Credit-Card-Fraud-Detection.svg?style=plastic)](https://github.com/NimraAslamkhan/Credit-Card-Fraud-Detection)
-[![](https://img.shields.io/github/languages/code-size/NimraAslamkhan/Credit-Card-Fraud-Detection.svg?style=plastic)](https://github.com/NimraAslamkhan/Credit-Card-Fraud-Detection)
-[![](https://img.shields.io/github/languages/top/NimraAslamkhan/Credit-Card-Fraud-Detection.svg?style=plastic)](https://github.com/NimraAslamkhan/Credit-Card-Fraud-Detection)
-[![GitHub issues](https://img.shields.io/github/issues/NimraAslamkhan/Credit-Card-Fraud-Detection.svg)](https://github.com/NimraAslamkhan/Credit-Card-Fraud-Detection/issues) 
-[![GitHub forks](https://img.shields.io/github/forks/NimraAslamkhan/Credit-Card-Fraud-Detection.svg)](https://github.com/NimraAslamkhan/Credit-Card-Fraud-Detection/network)
-[![GitHub stars](https://img.shields.io/github/stars/NimraAslamkhan/Credit-Card-Fraud-Detection.svg)](https://github.com/NimraAslamkhan/Credit-Card-Fraud-Detection/stargazers)
-![GitHub contributors](https://img.shields.io/github/contributors/NimraAslamkhan/Credit-Card-Fraud-Detection)
+[![](https://img.shields.io/github/license/NimraAslamkhan/Hackerrank_python.svg?style=plastic)](https://github.com/NimraAslamkhan/Hackerrank_python/tree/main)
+[![](https://img.shields.io/github/languages/code-size/NimraAslamkhan/Hackerrank_python.svg?style=plastic)](https://github.com/NimraAslamkhan/Hackerrank_python/tree/main)
+[![](https://img.shields.io/github/languages/top/NimraAslamkhan/Hackerrank_python.svg?style=plastic)](https://github.com/NimraAslamkhan/Hackerrank_python/tree/main)
+[![GitHub issues](https://img.shields.io/github/issues/NimraAslamkhan/Hackerrank_python.svg)](https://github.com/NimraAslamkhan/Hackerrank_python/issues)
+[![GitHub forks](https://img.shields.io/github/forks/NimraAslamkhan/Hackerrank_python.svg)](https://github.com/NimraAslamkhan/Hackerrank_python/network)
+[![GitHub stars](https://img.shields.io/github/stars/NimraAslamkhan/Hackerrank_python.svg)](https://github.com/NimraAslamkhan/Hackerrank_python/stargazers)
+![GitHub contributors](https://img.shields.io/github/contributors/NimraAslamkhan/Hackerrank_python)
 
 
 
