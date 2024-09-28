@@ -12,12 +12,127 @@
 [![GitHub stars](https://img.shields.io/github/stars/NimraAslamkhan/Hackerrank_python.svg)](https://github.com/NimraAslamkhan/Hackerrank_python/stargazers)
 ![GitHub contributors](https://img.shields.io/github/contributors/NimraAslamkhan/Hackerrank_python)
 
+<h2>📚 Resources</h2>
+<ul>
+    <li>
+        <a href="https://www.hackerrank.com/domains/python?filters%5Bstatus%5D%5B%5D=solved&badge_type=python" target="_blank">
+            <img src="https://img.shields.io/badge/HackerRank-Challenges-brightgreen?style=flat&logo=hackerrank" alt="HackerRank Challenges">
+        </a>
+    </li>
+    <li>
+        <a href="https://docs.python.org/" target="_blank">
+            <img src="https://img.shields.io/badge/Python-Documentation-blue?style=flat&logo=python" alt="Python Documentation">
+        </a>
+    </li>
+</ul>
 
 
-# Python: 
+
+<h1 align="center">HackerRank Challenges: Python</h1>
+
+<h2>📋 Table of Contents</h2>
+
+<table style="width: 100%; border-collapse: collapse;">
+    <thead>
+        <tr style="background-color: #f2f2f2;">
+            <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">#</th>
+            <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">Topic</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="border: 1px solid #ddd; text-align: center;">1</td>
+            <td style="border: 1px solid #ddd;"><a href="#introduction">Introduction</a></td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd; text-align: center;">2</td>
+            <td style="border: 1px solid #ddd;"><a href="#basic-data-types">Basic Data Types</a></td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd; text-align: center;">3</td>
+            <td style="border: 1px solid #ddd;"><a href="#strings">Strings</a></td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd; text-align: center;">4</td>
+            <td style="border: 1px solid #ddd;"><a href="#sets">Sets</a></td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd; text-align: center;">5</td>
+            <td style="border: 1px solid #ddd;"><a href="#math">Math</a></td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd; text-align: center;">6</td>
+            <td style="border: 1px solid #ddd;"><a href="#itertools">Itertools</a></td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd; text-align: center;">7</td>
+            <td style="border: 1px solid #ddd;"><a href="#collections">Collections</a></td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd; text-align: center;">8</td>
+            <td style="border: 1px solid #ddd;"><a href="#date-and-time">Date and Time</a></td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd; text-align: center;">9</td>
+            <td style="border: 1px solid #ddd;"><a href="#errors-and-exceptions">Errors and Exceptions</a></td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd; text-align: center;">10</td>
+            <td style="border: 1px solid #ddd;"><a href="#classes">Classes</a></td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd; text-align: center;">11</td>
+            <td style="border: 1px solid #ddd;"><a href="#built-ins">Built-Ins</a></td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd; text-align: center;">12</td>
+            <td style="border: 1px solid #ddd;"><a href="#python-functionals">Python Functionals</a></td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd; text-align: center;">13</td>
+            <td style="border: 1px solid #ddd;"><a href="#regex-and-parsing">Regex and Parsing</a></td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd; text-align: center;">14</td>
+            <td style="border: 1px solid #ddd;"><a href="#xml">XML</a></td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd; text-align: center;">15</td>
+            <td style="border: 1px solid #ddd;"><a href="#closures-and-decorators">Closures and Decorators</a></td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd; text-align: center;">16</td>
+            <td style="border: 1px solid #ddd;"><a href="#numpy">Numpy</a></td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd; text-align: center;">17</td>
+            <td style="border: 1px solid #ddd;"><a href="#debugging">Debugging</a></td>
+        </tr>
+    </tbody>
+</table>
+
+<hr>
 
 
-## Introduction
+<h2 align="center">🌟 Introduction</h2>
+
+<div style="border: 2px solid #4CAF50; border-radius: 10px; padding: 20px; background-color: #f9f9f9; margin: 20px;">
+    <p style="font-size: 1.2em; line-height: 1.5;">
+        Welcome to the HackerRank Python Challenges repository! This collection of challenges is designed to help you improve your Python programming skills through practical problem-solving. 
+    </p>
+    <p style="font-size: 1.2em; line-height: 1.5;">
+        Here, you'll find a variety of problems ranging from basic data types to advanced concepts such as decorators and Numpy. Each challenge comes with a description and a solution, allowing you to learn at your own pace.
+    </p>
+    <p style="font-size: 1.2em; line-height: 1.5;">
+        Whether you're a beginner or an experienced developer, this repository offers valuable resources to enhance your coding skills and prepare you for coding interviews.
+    </p>
+    <p style="font-size: 1.2em; line-height: 1.5;">
+        Let's dive into the world of Python and tackle some exciting challenges together!
+    </p>
+</div>
+
+
+
 
 | Subdomain    | Difficulty | Problem Link                                                                                      | Solution                         |
 |--------------|------------|----------------------------------------------------------------------------------------------------|----------------------------------|
