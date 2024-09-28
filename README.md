@@ -333,10 +333,25 @@
 |:---------:|:----------:|:-----------: |:--------:|
 |Debugging|Medium|[Words Score](https://www.hackerrank.com/challenges/words-score/problem?isFullScreen=true)|[words-score.py](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Debugging/Default%20Arguments.py)|
 |Debugging|Medium|[Default Arguments](https://www.hackerrank.com/challenges/default-arguments/problem?isFullScreen=true)|[default-arguments.py](https://github.com/NimraAslamkhan/Hackerrank_python/blob/main/python_solution/Debugging/Words%20Score.py)|
+<p align="center">
+  <b><i>Let's connect! Find me on the web.</i></b>
+</p>
 
-[gmail]: mailto:nimraaslam3132@gmail.com
-[linkedin]: https://www.linkedin.com/in/nimra-aslam-9652b3247
-[github]: https://github.com/NimraAslamkhan
+<p align="center">
+  <a href="mailto:nimraaslam3132@gmail.com">
+    <img height="30" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/nimra-aslam-9652b3247">
+    <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  
+  <a href="https://github.com/NimraAslamkhan">
+    <img height="30" src="https://img.shields.io/badge/github-black.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<hr />
 
 
   
