@@ -4,6 +4,14 @@
 
 ![](https://img.shields.io/badge/Programming_Language-Python-blue.svg)
 ![](https://img.shields.io/badge/Status-WorkinProgrees-green.svg)
+[![](https://img.shields.io/github/license/NimraAslamkhan/Credit-Card-Fraud-Detection.svg?style=plastic)](https://github.com/NimraAslamkhan/Credit-Card-Fraud-Detection)
+[![](https://img.shields.io/github/languages/code-size/NimraAslamkhan/Credit-Card-Fraud-Detection.svg?style=plastic)](https://github.com/NimraAslamkhan/Credit-Card-Fraud-Detection)
+[![](https://img.shields.io/github/languages/top/NimraAslamkhan/Credit-Card-Fraud-Detection.svg?style=plastic)](https://github.com/NimraAslamkhan/Credit-Card-Fraud-Detection)
+[![GitHub issues](https://img.shields.io/github/issues/NimraAslamkhan/Credit-Card-Fraud-Detection.svg)](https://github.com/NimraAslamkhan/Credit-Card-Fraud-Detection/issues) 
+[![GitHub forks](https://img.shields.io/github/forks/NimraAslamkhan/Credit-Card-Fraud-Detection.svg)](https://github.com/NimraAslamkhan/Credit-Card-Fraud-Detection/network)
+[![GitHub stars](https://img.shields.io/github/stars/NimraAslamkhan/Credit-Card-Fraud-Detection.svg)](https://github.com/NimraAslamkhan/Credit-Card-Fraud-Detection/stargazers)
+![GitHub contributors](https://img.shields.io/github/contributors/NimraAslamkhan/Credit-Card-Fraud-Detection)
+
 
 
 # Python: 
@@ -219,5 +227,6 @@
   
 
 
-<h3 align="center">Show some &nbsp;❤&nbsp; by starring some of the repositories!</h3>
+<h3 align="center">Show some &nbsp;🔍&nbsp; by starring some of the repositories!</h3>
+
 
